@@ -17,7 +17,7 @@
     "minimum-stability": "stable",
     "require": {
         "ext-curl": "*",
-        "league/flysystem-webdav": "^3.0"
+        "league/flysystem-webdav": "^3.8"
     },
     "require-dev": {
        
